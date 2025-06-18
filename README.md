@@ -1,9 +1,5 @@
 This is my personal portfolio showcasing my projects, skills, and contact details.
 
-## 🔗 Live Demo
-
-[Click here to view] https://seherfathima.github.io/personal_portfolio/
-
 ## 📁 Project Structure
 
 - index.html: Home page
